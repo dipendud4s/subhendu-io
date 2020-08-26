@@ -1,25 +1,25 @@
-<h2>Hey! there 👋, I'm Subhendu! <img src="https://i.gifer.com/Oye0.gif" width="50"></h2>
+<h2>Hey! there 👋, I'm Subhendu! <img src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
-<p><b>Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="30"> 
+<p><b>Sr. Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="30" style="margin-bottom: -8px;"> 
 </b></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/subhendu_io?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Subhendu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhendu-io/)](https://www.linkedin.com/in/subhendu-io/)
 ![GitHub followers](https://img.shields.io/github/followers/Subhendu-io?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=subhendu-io.subhendu-io)
-![Waka Readme](https://github.com/subhendu-io/subhendu-io/workflows/Waka%20Readme/badge.svg)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-👇 Hit in your console or terminal to connect with me.
+💻 Hit in your console or terminal to connect with me.
 
 ```bash
 npx subhendu
 ```
 
-### <img src="https://88daystowork.com/img/walker-loading.gif" width="50"> A little more about me...  
+## A little more about me... <img src="https://88daystowork.com/img/walker-loading.gif" width="50" style="margin-bottom: -8px;">  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
+const subhendu = {
+    website: "https://subhendu.io",
     code: ["Javascript", "Typescript", "C#", "Java", "php"],
     askMeAbout: ["web apps", "mobile apps", "project management", "data structure", "photography"],
     technologies: {
@@ -43,4 +43,4 @@ const anmol = {
 };
 ```
 
-<img src="https://thumbs.gfycat.com/WarmheartedMedicalCornsnake-size_restricted.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://thumbs.gfycat.com/WarmheartedMedicalCornsnake-size_restricted.gif" width="100"> <small><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😋</small>
