@@ -1,6 +1,6 @@
 <h2>👋 Hey there, I'm Subhendu! <img src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif" width="50" style="margin-bottom:-4px; margin-left:-8px;"></h2>
 <img align='right' src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
-<p><b>Sr. Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="60" style="margin-bottom:-11px;"> 
+<img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="60" style="margin-bottom:-11px;"> <p><b>Sr. Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a>
 </b></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/subhendu_io?label=Follow)
@@ -37,9 +37,9 @@ const subhendu = {
         databases: ["MongoDB", "MySql", "PostgreSQL", "MicrosoftSQLServer", "MariaDB", "firestore", "Redis"],
         misc: ["Firebase", "Socket.IO", "symfony", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Microservice Architecture", "Clean Architecture", "Serverless Architecture", "Progressive web applications"],
+    architecture: ["Microservice Architecture", "Clean Architecture", "Serverless Architecture"],
     currentProject: "I am developing developers portal for AccountingSuite using MEANStack",
-    funFact: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+    funFact: "Any fool can write code that a computer can understand. Always write code that humans can understand!"
 };
 ```
 
