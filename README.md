@@ -1,6 +1,6 @@
 <h2>Hey! there 👋, I'm Subhendu! <img src="https://i.gifer.com/Oye0.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
-<p><b>Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><b>Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://thumbs.gfycat.com/YearlySinfulKingfisher-size_restricted.gif" width="30"> 
 </b></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/subhendu_io?label=Follow)
@@ -15,7 +15,7 @@
 npx subhendu
 ```
 
-### <img src="https://media2.giphy.com/media/h4NzkyFOM1ZsRw9xeS/giphy.gif" width="50"> A little more about me...  
+### <img src="https://88daystowork.com/img/walker-loading.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
@@ -43,4 +43,4 @@ const anmol = {
 };
 ```
 
-<img src="https://media.tenor.com/images/e73e46b96eee60b0a4bffd76c5df4ce6/tenor.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://thumbs.gfycat.com/WarmheartedMedicalCornsnake-size_restricted.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
