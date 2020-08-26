@@ -1,16 +1,46 @@
-### Hi there 👋
+<h2>Hey! there 👋, I'm Subhendu! <img src="https://i.gifer.com/Oye0.gif" width="50"></h2>
+<img align='right' src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
+<p><b>Software Engineer at <a href="http://www.tanglesolutions.com">TangleSolutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</b></p>
 
-<!--
-**Subhendu-io/subhendu-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/subhendu_io?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Subhendu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhendu-io/)](https://www.linkedin.com/in/subhendu-io/)
+![GitHub followers](https://img.shields.io/github/followers/Subhendu-io?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=subhendu-io.subhendu-io)
+![Waka Readme](https://github.com/subhendu-io/subhendu-io/workflows/Waka%20Readme/badge.svg)
 
-Here are some ideas to get you started:
+👇 Hit in your console or terminal to connect with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+npx subhendu
+```
+
+### <img src="https://media2.giphy.com/media/h4NzkyFOM1ZsRw9xeS/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C#", "Java", "php"],
+    askMeAbout: ["web apps", "mobile apps", "project management", "data structure", "photography"],
+    technologies: {
+        mobileApp: ["iOS app", "Android app", "Flutter", "ReactNative", "NativeScript"],
+        frontEnd: {
+            js: ["Angular", "React ", "Vue"],
+            css: ["angular-material", "materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "adonis", "nestjs"],
+            php: ["laraval", "CodeIgniter"],
+            java: ["springboot"]
+        },
+        devOps: ["AWS", "Docker", "Heroku", "GoogleCloud"],
+        databases: ["MongoDB", "MySql", "PostgreSQL", "MicrosoftSQLServer", "MariaDB", "firestore", "Redis"],
+        misc: ["Firebase", "Socket.IO", "symfony", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Microservice Architecture", "Clean Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing developers portal for AccountingSuite using MEANStack",
+    funFact: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+};
+```
+
+<img src="https://media.tenor.com/images/e73e46b96eee60b0a4bffd76c5df4ce6/tenor.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
