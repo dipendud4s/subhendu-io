@@ -37,7 +37,7 @@ const subhendu = {
         databases: ["MongoDB", "MySql", "PostgreSQL", "MicrosoftSQLServer", "MariaDB", "firestore", "Redis"],
         misc: ["Firebase", "Socket.IO", "symfony", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Microservice Architecture", "Clean Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Microservice Architecture", "Clean Architecture", "Serverless Architecture", "Progressive web applications"],
     currentProject: "I am developing developers portal for AccountingSuite using MEANStack",
     funFact: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 };
